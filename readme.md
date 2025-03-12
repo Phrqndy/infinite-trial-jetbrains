@@ -8,3 +8,6 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 
 *Note: If You Run The Script While Your Account Is Signed In, You will get logged off*
+
+
+(Only For Educational Purposes)
